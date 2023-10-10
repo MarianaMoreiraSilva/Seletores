@@ -48,12 +48,6 @@ div {
 body{
         background-color: #FFE4E1;
       }
-
-section {  
-    display: flex;
-    justify-content: center;
-    margin-top: 100px;
-}
 p {
         font-family:verdana
 }
