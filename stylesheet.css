@@ -2,50 +2,53 @@
         background-color:red;
         padding:10px;
         border:1px solid white;
-      }
-      .azul {
+        }
+.azul {
         background-color:#3299cc;
         padding:10px;
         border:1px solid white;
       }
-      .verde {
+.verde {
         background-color:#229A00;
         padding:10px;
         border:1px solid white;
       }
-      .amarelo {
+.amarelo {
         background-color:yellow;
         padding:10px;
         border:1px solid white;        
       }
-      #vermelho1 {
+#vermelho1 {
         background-color:red;
         padding:10px;
         border:1px solid black;
       }
-      #vermelho2 {
+#vermelho2 {
         background-color:red;
         padding:10px;
         border:1px solid black;
       }
-      #vermelho3 {
+#vermelho3 {
         background-color:red;
         padding:10px;
         border:1px solid black; 
       }
-      #vermelho4 {
+#vermelho4 {
         background-color:red;
         padding:10px;
         border:1px solid black;
       }
-      div {
-        display: inline-block;
+div {
+        display: flex;
         border: 1px;
         width: 50px;
         height: 50px;
         margin: -2px;
-        justify-content: center;
       }
-      body{
+body{
         background-color: #FFE4E1;
       }
+
+section {
+        justify-content: center;
+}
